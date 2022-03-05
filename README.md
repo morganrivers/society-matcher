@@ -1,5 +1,6 @@
 # society-matcher
 Matching people with alternative societies
+
 ![image](https://user-images.githubusercontent.com/73547769/156834785-7bf91a74-8db6-476e-b8be-1808bbef6f94.png)
 
 ## Motivations

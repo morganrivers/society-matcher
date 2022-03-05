@@ -8,6 +8,9 @@ A key bottleneck to the creation and increased prevalence of alternative societa
 
 ![image](https://user-images.githubusercontent.com/73547769/156838123-1ea203d0-560c-42fc-ab58-351d99cd583f.png)
 
+## How to run
+clone the repo (git clone https://github.com/morganrivers/society-matcher.git), then run "python optimizer.py" in the src/ folder in a command line terminal
+
 ## what society-matcher does
 
 To address this need, society-matcher allows users to indicate their interests in features communities and what they have to offer, such as specific skills, financial resources or land and infrastructure available to be used to develop these communities.
